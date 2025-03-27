@@ -1,0 +1,341 @@
+X,y_true
+Walmart,Walmart
+Wal-mart,Walmart
+Wallmart,Walmart
+Wal Mart,Walmart
+Walmert,Walmart
+Walmrt,Walmart
+Walmart Supercenter,Walmart
+Walmart Super Center,Walmart
+Walmart Neighborhood Market,Walmart
+Walmart Grocery,Walmart
+Walmart Express,Walmart
+Walmart Market,Walmart
+Walmart Discount Store,Walmart
+Walmart Store,Walmart
+Super Walmart,Walmart
+Wal-mart Superstore,Walmart
+Wal-mart Neighborhood,Walmart
+Wallmart Supercenter,Walmart
+Wal Mart Grocery,Walmart
+Walmert Market,Walmart
+Target,Target
+Targt,Target
+Targit,Target
+Target Store,Target
+Super Target,Target
+Target Supercenter,Target
+Target Express,Target
+Tarjay,Target
+Target Market,Target
+Target Corp,Target
+Costco,Costco
+Costco Wholesale,Costco
+Cost Co,Costco
+Costco Store,Costco
+Costco Superstore,Costco
+Costco Membership,Costco
+Cotsco,Costco
+Cost Co Wholesale,Costco
+Costco Club,Costco
+Costco Outlet,Costco
+Kroger,Kroger
+Krogers,Kroger
+Kroger Grocery,Kroger
+Kroger Market,Kroger
+Kroger Superstore,Kroger
+Kroger Store,Kroger
+Kroger Mart,Kroger
+Kroger Express,Kroger
+Kroger Fresh,Kroger
+Kroger Foods,Kroger
+Home Depot,Home Depot
+HomeDept,Home Depot
+Homedepot,Home Depot
+Home Depot Store,Home Depot
+The Home Depot,Home Depot
+Home Depot Pro,Home Depot
+Home Depot Express,Home Depot
+Depot Home,Home Depot
+HomeDepot Hardware,Home Depot
+Home Depot Superstore,Home Depot
+Walgreens,Walgreens
+Walgreen,Walgreens
+Walgreens Pharmacy,Walgreens
+Walgreens Store,Walgreens
+Walgreens Express,Walgreens
+Wal Greens,Walgreens
+Wallgreens,Walgreens
+Walgreens Market,Walgreens
+Walgreens Drugs,Walgreens
+Walgreens Clinic,Walgreens
+Best Buy,Best Buy
+BestBuy,Best Buy
+Best Buy Store,Best Buy
+Best Buy Outlet,Best Buy
+Best Buy Express,Best Buy
+Best Buy Electronics,Best Buy
+Best Buy Warehouse,Best Buy
+Best Buy Market,Best Buy
+BBY,Best Buy
+Best Buy Superstore,Best Buy
+CVS,CVS Pharmacy
+CVS Pharmacy,CVS Pharmacy
+CVS Store,CVS Pharmacy
+CVS Drugstore,CVS Pharmacy
+CVS Market,CVS Pharmacy
+CVS Clinic,CVS Pharmacy
+CVS Express,CVS Pharmacy
+C.V.S.,CVS Pharmacy
+CVS Drugs,CVS Pharmacy
+CVS Health,CVS Pharmacy
+Whole Foods,Whole Foods Market
+WholeFoods,Whole Foods Market
+Whole Foods Market,Whole Foods Market
+Whole Food Store,Whole Foods Market
+Whole Foods Grocery,Whole Foods Market
+Wholefoods,Whole Foods Market
+Wholefoods Market,Whole Foods Market
+Whole Foods Co.,Whole Foods Market
+Whole Foods Organic,Whole Foods Market
+Whole Foods Supermarket,Whole Foods Market
+Dollar General,Dollar General
+Dollar Gen,Dollar General
+Doller General,Dollar General
+Dollar General Store,Dollar General
+Dollar General Market,Dollar General
+DG,Dollar General
+D.G.,Dollar General
+Dollar General Express,Dollar General
+Dollar General Superstore,Dollar General
+General Dollar,Dollar General
+Lowe's,Lowe's
+Lowes,Lowe's
+Lowe's Home Improvement,Lowe's
+Lowe's Hardware,Lowe's
+Lowe's Store,Lowe's
+Lowe's Superstore,Lowe's
+Lowes Market,Lowe's
+Lowe's Pro,Lowe's
+Lowes Express,Lowe's
+Lowes Home Goods,Lowe's
+Publix,Publix
+Publix Super Markets,Publix
+Publix Grocery,Publix
+Publix Store,Publix
+Publix Market,Publix
+Publics,Publix
+Publix Express,Publix
+Publix Food & Pharmacy,Publix
+Publix Supercenter,Publix
+Publix Mart,Publix
+Aldi,Aldi
+Aldis,Aldi
+Aldi Grocery,Aldi
+Aldi Store,Aldi
+Aldi Supermarket,Aldi
+Aldi Market,Aldi
+Aldi Discount,Aldi
+Aldi Express,Aldi
+Aldi Foods,Aldi
+Aldi USA,Aldi
+Sam's Club,Sam's Club
+Sams Club,Sam's Club
+Sam Club,Sam's Club
+Sam's Wholesale,Sam's Club
+Sams Club Wholesale,Sam's Club
+Sams,Sam's Club
+Sam's Store,Sam's Club
+Sam's Market,Sam's Club
+Sam's Superstore,Sam's Club
+Sam's Express,Sam's Club
+Trader Joe's,Trader Joe's
+Trader Joes,Trader Joe's
+Trader Joe,Trader Joe's
+Trader Joe's Market,Trader Joe's
+Trader Joe's Grocery,Trader Joe's
+Trader Joe's Foods,Trader Joe's
+Trader J,Trader Joe's
+Trader Joe's Express,Trader Joe's
+Trader Joe's Store,Trader Joe's
+Trader Joe's Discount,Trader Joe's
+Meijer,Meijer
+Meijer Grocery,Meijer
+Meijer Superstore,Meijer
+Meijer Mart,Meijer
+Meijer Express,Meijer
+Meijer Market,Meijer
+Meijer Foods,Meijer
+Mijer,Meijer
+Meijers,Meijer
+Meijer Discount,Meijer
+Safeway,Safeway
+Safeway Grocery,Safeway
+Safeway Market,Safeway
+Safeway Foods,Safeway
+Safeway Supermarket,Safeway
+Safeway Store,Safeway
+Safe Way,Safeway
+Safeway Discount,Safeway
+Safeway Express,Safeway
+Safeway Mart,Safeway
+BJ's Wholesale Club,BJ's Wholesale Club
+BJ's,BJ's Wholesale Club
+BJs Wholesale,BJ's Wholesale Club
+BJ Wholesale,BJ's Wholesale Club
+BJ's Club,BJ's Wholesale Club
+BJ's Market,BJ's Wholesale Club
+BJs Superstore,BJ's Wholesale Club
+BJ's Store,BJ's Wholesale Club
+B.J.'s Club,BJ's Wholesale Club
+BJs Express,BJ's Wholesale Club
+H-E-B,H-E-B
+HEB,H-E-B
+H E B,H-E-B
+H-E-B Grocery,H-E-B
+H-E-B Store,H-E-B
+HEB Supermarket,H-E-B
+H-E-B Market,H-E-B
+H-E-B Express,H-E-B
+HEB Foods,H-E-B
+H-E-B Discount,H-E-B
+Rite Aid,Rite Aid
+RiteAid,Rite Aid
+Rite-Aid,Rite Aid
+Rite Aid Pharmacy,Rite Aid
+Rite Aid Store,Rite Aid
+Rite Aid Express,Rite Aid
+Right Aid,Rite Aid
+RiteAid Mart,Rite Aid
+Rite Aid Drugs,Rite Aid
+Rite Aid Market,Rite Aid
+Family Dollar,Family Dollar
+FamilyDollar,Family Dollar
+Family Dollar Store,Family Dollar
+Family Dollar Market,Family Dollar
+Family Dollar Express,Family Dollar
+Family Dollars,Family Dollar
+Family Discount,Family Dollar
+Family Dollar Mart,Family Dollar
+F Dollar,Family Dollar
+Family $,Family Dollar
+Lucky's Liquor,Lucky's Liquor
+Lucky's Spirits,Lucky's Spirits
+Lucky's Wine & Spirits,Lucky's Wine & Spirits
+Lucky's Discount Liquor,Lucky's Discount Liquor
+Lucky's Liquor Depot,Lucky's Liquor Depot
+Tony's Corner Store,Tony's Corner Store
+Tony's Market,Tony's Market
+Tony's Grocery,Tony's Grocery
+Tony's Mini Mart,Tony's Mini Mart
+Tony's Convenience,Tony's Convenience
+Express Mart,Express Mart
+Express Mini Mart,Express Mini Mart
+Express Grocery,Express Grocery
+Express Food Mart,Express Food Mart
+Xpress Mart,Xpress Mart
+City Food Mart,City Food Mart
+City Mini Mart,City Mini Mart
+City Grocery,City Grocery
+City Express Mart,City Express Mart
+City Market,City Market
+Downtown Convenience,Downtown Convenience
+Downtown Mini Mart,Downtown Mini Mart
+Downtown Grocery,Downtown Grocery
+Downtown Express Mart,Downtown Express Mart
+Downtown Market,Downtown Market
+Green Valley Market,Green Valley Market
+Green Valley Grocery,Green Valley Grocery
+Green Valley Mini Mart,Green Valley Mini Mart
+Green Valley Supermarket,Green Valley Supermarket
+Green Valley Express,Green Valley Express
+Sam's Deli,Sam's Deli
+Sam's Market & Deli,Sam's Market & Deli
+Sam's Grocery & Deli,Sam's Grocery & Deli
+Sam's Corner Deli,Sam's Corner Deli
+Sam's Quick Stop,Sam's Quick Stop
+Joe's Liquor,Joe's Liquor
+Joe's Wine & Spirits,Joe's Wine & Spirits
+Joe's Discount Liquor,Joe's Discount Liquor
+Joe's Liquor and Deli,Joe's Liquor and Deli
+Joe's Liquor Mart,Joe's Liquor Mart
+Family Grocery,Family Grocery
+Family Mini Mart,Family Mini Mart
+Family Market,Family Market
+Family Foods,Family Foods
+Family Express,Family Express
+7 Star Grocery,7 Star Grocery
+7 Star Market,7 Star Market
+7 Star Mini Mart,7 Star Mini Mart
+7 Star Foods,7 Star Foods
+Seven Star Grocery,Seven Star Grocery
+Petco,Petco
+Pet Co,Petco
+Petco Store,Petco
+Petco Supplies,Petco
+Petco Grooming,Petco
+Petco Mart,Petco
+Petco Express,Petco
+Petco Market,Petco
+Petco Pets,Petco
+Petco Veterinary,Petco
+Amazon,Amazon
+Amazon Store,Amazon
+Amazon Retail,Amazon
+Amazon Fresh,Amazon
+Amazon Prime,Amazon
+Amazon Supermarket,Amazon
+Amazon Warehouse,Amazon
+Amazon Go,Amazon
+Amazon Market,Amazon
+Amazon Grocery,Amazon
+Pashmart,Pashmart
+Pashmart Store,Pashmart
+Pashmart Market,Pashmart
+Pash Mart,Pashmart
+Pashmart Online,Pashmart
+Pashmart Deals,Pashmart
+Pashmart Express,Pashmart
+Pashmart Outlet,Pashmart
+Pash Mart Shop,Pashmart
+Pashmart Clothing,Pashmart
+Shell,Shell
+Shell Gas,Shell
+Shell Station,Shell
+Shell Fuel,Shell
+Shell Express,Shell
+Shell Market,Shell
+Shell Superstore,Shell
+Shell Mart,Shell
+Shell Stop,Shell
+Shell Gas & Mart,Shell
+University of California,University of California
+University of California Berkeley,University of California Berkeley
+UC Berkeley,University of California Berkeley
+University of California Los Angeles,University of California Los Angeles
+UCLA,University of California Los Angeles
+University of Texas,University of Texas
+University of Texas at Austin,University of Texas at Austin
+UT Austin,University of Texas at Austin
+University of Florida,University of Florida
+UF,University of Florida
+Peet's Coffee,Peet's Coffee
+Peets Coffee,Peet's Coffee
+Pete's Coffee,Peet's Coffee
+Peet's Coffee & Tea,Peet's Coffee
+Peet's Café,Peet's Coffee
+Peet's Express,Peet's Coffee
+Peet's Coffee House,Peet's Coffee
+Peet's Market,Peet's Coffee
+Peet's Espresso,Peet's Coffee
+Peet's Coffee Shop,Peet's Coffee
+Starbucks,Starbucks
+Star Bucks,Starbucks
+Starbux,Starbucks
+Starbucks Coffee,Starbucks
+Starbucks Reserve,Starbucks
+Starbucks Café,Starbucks
+Starbucks Express,Starbucks
+Starbucks Market,Starbucks
+Starbucks Store,Starbucks
+Starbucks Tea & Coffee,Starbucks
