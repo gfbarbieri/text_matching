@@ -1,6 +1,6 @@
 # Text Prediction Library
 
-A Python library for text matching and prediction, providing flexible tools for both supervised and unsupervised text matching tasks. The library supports various text matching strategies including bag-of-words approaches and fuzzy string matching.
+A Python library for text matching and prediction, providing flexible tools for both supervised and unsupervised text matching tasks. The library supports various text matching strategies including bag-of-words approaches and fuzzy string matching. The library is built following scikit-learn's API, allowing for easy integration into existing workflows.
 
 ## Features
 
