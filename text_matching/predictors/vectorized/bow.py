@@ -21,7 +21,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 from typing import Callable
 
-from text_prediction.predictors.base.base import BasePredictor
+from text_matching.predictors.base.base import BasePredictor
 
 ########################################################################
 ## BAG OF WORDS (BOW) PREDICTOR CLASS

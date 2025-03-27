@@ -1,4 +1,4 @@
-# Text Prediction Library
+# Text Matching Library
 
 A Python library for text matching and prediction, providing flexible tools for both supervised and unsupervised text matching tasks. The library supports various text matching strategies including bag-of-words approaches and fuzzy string matching. The library is built following scikit-learn's API, allowing for easy integration into existing workflows.
 
@@ -50,8 +50,8 @@ poetry export -f requirements.txt --output requirements.txt
 ### Supervised Text Matching
 
 ```python
-from text_prediction.predictors.vectorized import BOWPredictor
-from text_prediction.predictors.distance import FuzzyPredictor
+from text_matching.predictors.vectorized import BOWPredictor
+from text_matching.predictors.distance import FuzzyPredictor
 
 # Initialize predictors.
 bow_predictor = BOWPredictor(analyzer='char_wb', ngram_range=(2,3))
@@ -81,7 +81,7 @@ similar_docs = fuzzy_predictor.predict(new_documents)
 ### Text Preprocessing
 
 ```python
-from text_prediction.transformers import TextPreprocessor
+from text_matching.transformers import TextPreprocessor
 
 # Define preprocessing functions.
 def lowercase(text):

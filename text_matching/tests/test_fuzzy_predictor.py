@@ -11,8 +11,8 @@ import pytest
 from typing import List
 
 from rapidfuzz.utils import default_process
-from text_prediction.predictors.distance.fuzzy import FuzzyPredictor
-from text_prediction.predictors.distance import ALGORITHMS, METHODS
+from text_matching.predictors.distance.fuzzy import FuzzyPredictor
+from text_matching.predictors.distance import ALGORITHMS, METHODS
 
 ########################################################################
 ## INITIALIZATION TESTS

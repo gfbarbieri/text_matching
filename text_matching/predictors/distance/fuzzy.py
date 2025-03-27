@@ -21,8 +21,8 @@ from rapidfuzz.utils import default_process
 
 from typing import List, Tuple, Dict, Optional, Union, Callable, Any
 
-from text_prediction.predictors.base.base import BasePredictor
-from text_prediction.predictors.distance import ALGORITHMS, METHODS
+from text_matching.predictors.base.base import BasePredictor
+from text_matching.predictors.distance import ALGORITHMS, METHODS
 
 ########################################################################
 ## FUZZY SEARCH CLASS
