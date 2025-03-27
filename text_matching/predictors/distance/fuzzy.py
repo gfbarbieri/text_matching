@@ -84,10 +84,10 @@ class FuzzyPredictor(BasePredictor):
 
     .. code-block:: python
 
-       from text_prediction.predictors.distance import FuzzyPredictor
+       from text_matching.predictors.distance import FuzzyPredictor
        
        predictor = FuzzyPredictor(algorithm="levenshtein", method="similarity")
-       predictor.fit(X, y)  # y contains reference labels
+       predictor.fit(X, y)  # y contains reference labels.
        matches = predictor.predict(new_text)
 
     Unsupervised matching (within corpus):
@@ -95,8 +95,9 @@ class FuzzyPredictor(BasePredictor):
     .. code-block:: python
 
        predictor = FuzzyPredictor(algorithm="jaro", method="normalized_similarity")
-       predictor.fit(documents)  # documents to match within
+       predictor.fit(documents)  # documents to match within.
        matches = predictor.predict(new_documents)
+
     """
 
     def __init__(

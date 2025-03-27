@@ -74,9 +74,10 @@ class BOWPredictor(BasePredictor):
 
     .. code-block:: python
 
-       from text_prediction.predictors.vectorized import BOWPredictor
+       from text_matching.predictors.vectorized import BOWPredictor
+
        predictor = BOWPredictor(analyzer='char_wb', ngram_range=(2,3))
-       predictor.fit(X, y)  # y contains reference labels
+       predictor.fit(X, y)  # y contains reference labels.
        matches = predictor.predict(new_text)
 
     Unsupervised matching (within corpus):
@@ -84,7 +85,7 @@ class BOWPredictor(BasePredictor):
     .. code-block:: python
 
        predictor = BOWPredictor(analyzer='char_wb', ngram_range=(2,3))
-       predictor.fit(documents)  # documents to match within
+       predictor.fit(documents)  # documents to match within.
        matches = predictor.predict(new_documents)
 
     """
