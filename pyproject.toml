@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "text-search"
+name = "text-matching"
 version = "0.1.0"
-description = "Example using various search methods."
+description = "A Python library for text matching and similarity analysis, featuring fuzzy and BOW matching."
 authors = ["Greg Barbieri <gfbarbieri@gmail.com>"]
 readme = "README.md"
 
